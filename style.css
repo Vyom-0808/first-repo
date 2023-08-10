@@ -1,0 +1,47 @@
+.my-style{
+background-color: aquamarine;
+color: rgb(113, 113, 155);
+}
+.new{
+
+    background-color: aqua;
+    color: green;
+    border: 3px solid #029; 
+    letter-spacing: 5px;
+    
+    
+}
+h1{
+text-align: center; 
+font-family: cursive;
+font-weight: 300;
+
+} 
+
+body{
+ background-color: #029;
+}
+ 
+ @media  (min-width: 768px){
+
+    body{
+        background-color:rgb(rgb(134, 22, 22), green, blue) ;
+    }
+
+ }
+  
+ @media  (min-width: 1024px){
+
+    body{
+        background-color:rgb(rgb(22, 134, 50), green, blue) ;
+    }
+
+ }
+ @media  (min-width: 1208px){
+
+    body{
+        background-color:rgb(rgb(108, 70, 84), green, blue) ;
+    }
+
+ }
+ 
